@@ -1,4 +1,3 @@
-
 -- SQL Excellence Bootcamp Graduating Project of Cicek Akkaya:
 
 create database PlantProtection
