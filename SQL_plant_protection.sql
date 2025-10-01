@@ -81,8 +81,8 @@ insert into @Pesticide_Names values
 
 declare @Plant_Names table (PlantName nvarchar(100));
 insert into @Plant_Names values
-('Apple/Elma'), ('Tangerine/Mandalin'), ('Lemon/Limon'), ('Tomato/Domates'), ('Pepper/Biber'), ('Eggplant/Patl�can'),
-('Avacado/Avacado'), ('Walnut/Ceviz'), ('Orange/Portakal'), ('Lettuce/Marul'), ('Parsley/Maydanoz'), ('Onion/So�an')
+('Apple/Elma'), ('Tangerine/Mandalin'), ('Lemon/Limon'), ('Tomato/Domates'), ('Pepper/Biber'), ('Eggplant/Patlican'),
+('Avacado/Avacado'), ('Walnut/Ceviz'), ('Orange/Portakal'), ('Lettuce/Marul'), ('Parsley/Maydanoz'), ('Onion/Sogan')
 
 while @i <= 100001
 begin
